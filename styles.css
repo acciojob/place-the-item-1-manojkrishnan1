@@ -2,8 +2,9 @@
 	padding:30px;
 	background-color:green;
 }
-.container{
+.holder{
 	display:flex;
 	flex-direction:row;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
